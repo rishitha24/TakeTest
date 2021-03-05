@@ -1,38 +1,82 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App h1{
+  margin-left: -2rem;
+}
+
+.Quiz button {
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: aquamarine;
+  margin: 1rem;
+  margin-left: 3rem;
+}
+
+.Menu button {
+  width: 300px;
+  height: 50px;
+  margin-top: 14rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: aquamarine;
+  margin-left: 15rem;
+}
+
+.options {
+  width: 100%;
+  display: flex;
+  justify-content: center;
   flex-direction: column;
   align-items: center;
+}
+
+.Quiz, .Menu{
+  border: 1px solid black;
+  box-shadow: 3px 3px rgb(200, 200 ,200);
+  width: 780px;
+  margin: 4rem;
+  height: 500px;
+  margin-left: 50px;
+}
+
+.endScreen h2 {
+   margin-left: 18rem;
+   width: 200%;
+   height: 200%
+}
+
+.endScreen div{
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  margin-left: 15rem;
 }
 
-.App-link {
-  color: #61dafb;
+.Quiz h2 {
+  margin-left: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.endScreen button{
+  width: 350px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: aquamarine;
+  margin: 1rem;
+  margin-left: 11rem;
 }
