@@ -45,6 +45,7 @@ const Quiz = () => {
 
     return (
         <div className="Quiz">
+            <p>Attempt Questions Here</p>
             <h2>{Questions[currQuestion].prompt}</h2>
 
             <div className="options">
@@ -67,6 +68,7 @@ const Quiz = () => {
                 )
             }
 
+        
         </div>
     )
 }

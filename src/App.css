@@ -47,8 +47,8 @@
   border: 1px solid black;
   box-shadow: 3px 3px rgb(200, 200 ,200);
   width: 780px;
-  margin: 4rem;
-  height: 500px;
+  margin-left: 6rem;
+  height: 550px;
   margin-left: 50px;
 }
 
@@ -79,4 +79,9 @@
   background-color: aquamarine;
   margin: 1rem;
   margin-left: 11rem;
+}
+
+.Quiz p{
+  font-size: 20px;
+  margin-left: 18rem;
 }
