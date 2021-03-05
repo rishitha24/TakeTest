@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/assesment-react-app-basic/static/css/main.25a29c4b.chunk.css",
+    "main.js": "/assesment-react-app-basic/static/js/main.e438b3ff.chunk.js",
+    "main.js.map": "/assesment-react-app-basic/static/js/main.e438b3ff.chunk.js.map",
+    "runtime-main.js": "/assesment-react-app-basic/static/js/runtime-main.42b7338b.js",
+    "runtime-main.js.map": "/assesment-react-app-basic/static/js/runtime-main.42b7338b.js.map",
+    "static/js/2.9d9c1e20.chunk.js": "/assesment-react-app-basic/static/js/2.9d9c1e20.chunk.js",
+    "static/js/2.9d9c1e20.chunk.js.map": "/assesment-react-app-basic/static/js/2.9d9c1e20.chunk.js.map",
+    "static/js/3.26b697f6.chunk.js": "/assesment-react-app-basic/static/js/3.26b697f6.chunk.js",
+    "static/js/3.26b697f6.chunk.js.map": "/assesment-react-app-basic/static/js/3.26b697f6.chunk.js.map",
+    "index.html": "/assesment-react-app-basic/index.html",
+    "static/css/main.25a29c4b.chunk.css.map": "/assesment-react-app-basic/static/css/main.25a29c4b.chunk.css.map",
+    "static/js/2.9d9c1e20.chunk.js.LICENSE.txt": "/assesment-react-app-basic/static/js/2.9d9c1e20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b7338b.js",
+    "static/js/2.9d9c1e20.chunk.js",
+    "static/css/main.25a29c4b.chunk.css",
+    "static/js/main.e438b3ff.chunk.js"
+  ]
+}
